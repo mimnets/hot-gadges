@@ -1,0 +1,9 @@
+.container-fluid{
+    padding: 50px 50px 5px 50px;
+    background-color: bisque;
+}
+li{
+    font-size: x-large;
+    padding: 15px;
+    font-weight: 500;
+}
